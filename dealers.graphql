@@ -1,0 +1,9 @@
+query getDealers {
+  dealers {
+    items {
+      id
+      name
+      address
+    }
+  }
+}
